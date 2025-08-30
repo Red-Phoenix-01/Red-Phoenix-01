@@ -1,7 +1,7 @@
 ## ## Hi there 👋, I'm Dev Vishnu
 I'm a passionate Computer Science & Cybersecurity enthusiast, currently exploring AI, web development.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brohi&label=Profile%20views&color=0e75b6&style=flat" alt="brohi" /> 
+<img src="https://komarev.com/ghpvc/?username=brohi&label=Profile%20views&color=0e75b6&style=flat" alt="brohi" /> 
 <!--
 **Red-Phoenix-01/Red-Phoenix-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
