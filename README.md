@@ -1,5 +1,5 @@
 
-<img src="https://komarev.com/ghpvc/?username=brohi&label=Profile%20views&color=0e75b6&style=flat" alt="brohi" /> 
+
 <h1 align="center"> Hi there👋, I'm Dev Vishnu </br> 
 </h1>
 <p align="center">Engineer by day, bug slayer by night, turning coffee into code and ideas into apps </p>
@@ -7,6 +7,7 @@
 <p align="center">
 ---
 
+<img src="https://komarev.com/ghpvc/?username=brohi&label=Profile%20views&color=0e75b6&style=flat" alt="brohi" /> 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
