@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there👋, I'm Dev Vishnu </br> 
 </h1>
-<p align="center">Engineer by day, bug slayer by night, turning coffee into code and ideas into apps </p>
+<p align="center">Engineer by day, bug slayer by night, turning coffee into code and ideas into apps 👨‍💻 </p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
 ---
