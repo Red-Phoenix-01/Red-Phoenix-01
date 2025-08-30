@@ -1,5 +1,5 @@
-## ## Hi there 👋, I'm Dev Vishnu
-I'm a passionate Computer Science & Cybersecurity enthusiast, currently exploring AI, web development.
+## Hi there 👋, I'm Dev Vishnu
+        Engineer by day, bug slayer by night, turning coffee into code and ideas into apps.
 
 <img src="https://komarev.com/ghpvc/?username=brohi&label=Profile%20views&color=0e75b6&style=flat" alt="brohi" /> 
 
