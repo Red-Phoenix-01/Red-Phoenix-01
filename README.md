@@ -37,6 +37,6 @@
 
 ---
 <p align="center">
-<img src="https://github.com/Red-Phoenix-01/Red-Phoenix-01/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Red-Phoenix-01/Red-Phoenix-01/refs/heads/output/github-contribution-grid-snake.svg">
 </p>
 
