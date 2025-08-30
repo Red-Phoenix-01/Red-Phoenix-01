@@ -23,7 +23,6 @@
 ---
 
 ## 📊 Coding Footprints
-![Blaze's Contribution Graph](https://github-readme-stats.vercel.app/api?username=Red-Phoenix-01&show_icons=true&theme=radical&count_private=true)
 ![Blaze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Red-Phoenix-01&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Red-Phoenix-01&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Phoenix-01&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
