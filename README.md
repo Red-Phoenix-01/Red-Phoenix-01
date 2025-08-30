@@ -24,8 +24,9 @@ I'm a passionate Computer Science & Cybersecurity enthusiast, currently explorin
 
 ## 📊 GitHub Stats
 ![Blaze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Red-Phoenix-01&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Phoenix-01&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=Red-Phoenix-01&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Phoenix-01&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 ##
 
