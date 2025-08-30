@@ -41,4 +41,4 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Red-Phoenix-01/Red-Phoenix-01/refs/heads/output/github-contribution-grid-snake-dark.svg">
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=brohi&label=Profile%20views&color=0e75b6&style=flat" alt="brohi" /> 
