@@ -23,33 +23,12 @@
 ---
 
 ## 📊 Coding Footprints
-![Blaze's Contribution Graph](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
+![Blaze's Contribution Graph](https://github-readme-stats.vercel.app/api?username=Red-Phoenix-01&show_icons=true&theme=radical&count_private=true)
 ![Blaze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Red-Phoenix-01&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Red-Phoenix-01&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Phoenix-01&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-##
 
-
-
-
-
-
-
-
----
 [![](https://visitcount.itsvg.in/api?id=Red-Phoenix-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
