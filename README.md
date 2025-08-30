@@ -31,7 +31,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Phoenix-01&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=Red-Phoenix-01&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=brohi&label=Profile%20views&color=0e75b6&style=flat" alt="brohi" /> 
 
 
 
@@ -41,4 +41,4 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Red-Phoenix-01/Red-Phoenix-01/refs/heads/output/github-contribution-grid-snake-dark.svg">
 </p>
-<img src="https://komarev.com/ghpvc/?username=brohi&label=Profile%20views&color=0e75b6&style=flat" alt="brohi" /> 
+
