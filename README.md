@@ -1,8 +1,10 @@
-## Hi there 👋, I'm Dev Vishnu
-   Engineer by day, bug slayer by night, turning coffee into code and ideas into apps.
 
 <img src="https://komarev.com/ghpvc/?username=brohi&label=Profile%20views&color=0e75b6&style=flat" alt="brohi" /> 
-
+<h1 align="center"> Hi there👋, I'm Dev Vishnu </br> 
+</h1>
+<p align="center">Engineer by day, bug slayer by night, turning coffee into code and ideas into apps </p>
+<p align="center">Turning imagination into reality 🚀</p>
+<p align="center">
 ---
 
 ## 💻 Tech Stack
